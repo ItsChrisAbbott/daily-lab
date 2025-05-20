@@ -2,7 +2,7 @@
 
 | Week | Assignment | Folder | Status |
 |------|------------|--------|--------|
-| 0    | Scratch – “Basketball Game” project | [Week-0](Week-0/) | ✅ Completed |
+| 0    | Scratch – “Basketball Game” project | [week-0](week-0/) | ✅ Completed |
 | 1    | Mario (C) | week1/ | ⏳ In progress |
 | 2    | Credit / Readability (C) | week2/ | ⏳ |
 | 3    | Plurality / Tideman (C) | week3/ | ⏳ |
